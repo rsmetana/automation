@@ -1,0 +1,20 @@
+---
+- name: Configuring Cisco IOS Devices
+  gather_facts: no
+  hosts: routers
+  connection: network_cli
+
+  tasks:
+    - name: Base config
+      ios_config:
+        save_when: modified
+        lines:
+          - hostname "{{inventory_hostname}}"
+          - ip name-server 8.8.8.8
+          - no ip http server
+          - ip http secure-server
+      register: output
+
+    - name: Printing at the console
+      debug: var=output
+...

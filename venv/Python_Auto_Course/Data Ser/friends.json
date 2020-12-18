@@ -1,0 +1,14 @@
+{
+    "dan": [
+        20,
+        "London",
+        223432
+    ],
+    "Maria": [
+        25,
+        "Madrid",
+        423789
+    ]
+}"""
+
+obj = json.loads(json

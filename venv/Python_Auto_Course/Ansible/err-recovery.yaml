@@ -1,0 +1,40 @@
+---
+
+- name: error disable recover
+  hosts: glenville
+  gather_facts: false
+  connection: local
+
+  vars:
+    cli:
+      username: rancid
+      password: qyLnzXj1
+      timeout: 100
+#   cli:
+#      username: cmsd2010
+#      password: rwa
+#      become_pass: rwa
+#      timeout: 100
+
+  tasks:
+#    - name: Global config settings
+#      ios_config:
+#        provider: "{{ cli }}"
+#        lines:
+#          - ipv6 unicast-routing
+#          - errdisable recovery interval 60
+#          - security passwords min-length 5
+#          - ip name-server 99.99.99.99
+#          - no ip http server
+#          - ip http secure-server
+#          - snmp-server community ipvzero1 RO
+#          - snmp-server community ipvzero2 RW
+#          - ntp server 99.99.99.99
+#          - banner motd &&
+
+  - name: run multiple commands on remote nodes
+    ios_command:
+      commands:
+        - config t
+        - errdisable recovery cause psecure-violation
+        - errdisable recovery interval 30

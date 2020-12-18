@@ -1,0 +1,19 @@
+---
+- name: Running show commands on Cisco IOS
+  hosts: routers
+  gathers_facts: false
+  connection: network_cli  #module to run CLI commands
+
+  tasks:
+    - name: Run multiple commands on Cisco IOS nodes
+      ios_command:
+        commands:
+          - show version
+
+      register: my_config
+
+    - name: Save output
+      copy:
+        content: "{{ my_config.sdout[0]}}"
+        dest: "/home/name/lab/ansible/{{inventory_hostname}}.txt"
+...

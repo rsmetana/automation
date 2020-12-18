@@ -1,0 +1,16 @@
+---
+- hosts: linuxhosts
+  become: true #become means to turn into root user
+  tasks:
+    - name: install nginx on ubuntu
+    - apt: name=nginx state=latest
+      #apt module will generate error in centos
+      ignore_erros: yes
+      #when it fails we want to store the failure in a variable
+      # for next task to run in case of failure
+      register: results
+
+    - name: install nginx on centos
+      yum: name=nginx state=latest
+      when: results|failed
+      #only run this is result contains failure
