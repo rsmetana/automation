@@ -2,7 +2,7 @@ import getpass
 import sys
 import telnetlib
 
-user = raw_input('Enter your Creds: ')
+user = input('Enter your Creds: ')
 password = getpass.getpass()
 
 for i in range(2,40):
