@@ -25,7 +25,7 @@ for item in name_mac:
     print(f'config ap name {item}')
 
 for item in names_list:
-    print(f'config ap group-name JFK875 {item}''\ny')
+    print(f'config ap group-name JFK875 {item}\n''y')
 
 
     
