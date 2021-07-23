@@ -1,0 +1,99 @@
+#!/usr/bin/expect -f
+ 
+# Set variables
+ set hostname [lindex $argv 0]
+ set username [lindex $argv 1] 
+ set password [lindex $argv 2]
+ set enablepassword [lindex $argv 2]
+ 
+# Log results
+ log_file -a ~/results.log
+ 
+# Announce which device we are working on and at what time
+ send_user "\n"
+ send_user ">>>>>  Working on $hostname @ [exec date] <<<<<\n"
+ send_user "\n"
+ 
+# Don't check keys
+ spawn telnet $hostname   
+ 
+# Enter ctrl-Y for username and password prompt
+
+expect "Enter Ctrl-Y to begin."
+send "\031"
+
+# Insert credentials to screen
+
+expect "Username: "
+send "$username\n"
+expect "Password: "
+send "$password\n"
+ 
+
+# Allow this script to handle ssh connection issues
+ expect {
+ timeout { send_user "\nTimeout Exceeded - Check Host\n"; exit 1 }
+ eof { send_user "\ntelnet Connection To $hostname Failed\n"; exit 1 }
+ "*#" {}
+ "*assword:" {
+ send "$password\n"
+ }
+ }
+ 
+
+# If we're not already in enable mode, get us there
+ expect {
+ default { send_user "\nEnable Mode Failed - Check Password\n"; exit 1 }
+ "*#" {}
+ "*>" {
+ send "enable\n"
+ expect "*assword"
+ send "$enablepassword\n"
+ expect "*#"
+ }
+ }
+
+
+#"*Ethernet Switch 425-48T Main Menu" {
+# send "c\n"
+# expect "#"
+# send "conf t\n"
+# expect "(config)#"
+# send "username \"doit\"\ \"\C1HIdIb9\"\ rw\n"
+# expect "(config)#"
+# send "end\n"
+# expect "#"
+# send "write mem\n"
+# expect "#"
+# send "exit\n"
+# expect "*Ethernet Switch 425-48T Main Menu\$"
+# send "l\$"
+# exit
+# }
+# }
+ 
+ 
+# Enter your commands here. Examples listed below
+ #send "tacacs-server host 10.0.0.5\n"
+ #expect "(config)#"
+ #send "tacacs-server directed-request\n"
+ f we're not already in enable mode, get us there#expect "(config)#"
+ #send "tacacs-server key 7 0000000000000\n"
+ #expect "(config)#"
+ #send "ntp server 10.0.0.9\n"
+ #expect "(config)#"
+ #send "ip domain-name yourdomain.com\n"
+ #expect "(config)#"
+
+ expect "#"
+ send "conf t\n"
+ expect "(config)#"
+ send "username \"doit\"\ \"\C1HIdIb9\"\ rw\n"
+ expect "(config)#"
+ send "end\n"
+ expect "#"
+ send "write mem\n"
+ expect "#"
+ send "exit\n"
+ expect ":~\$"
+ exit
