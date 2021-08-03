@@ -1,0 +1,694 @@
+AJR016-APB156
+AJR016-APCORA206
+AJR016-APCORA161
+AJR016-APCORA129
+AJR016-APA127
+AJR016-APCORA249
+AJR016-APA138
+AJR016-APCORB132
+AJR016-APCORB119
+AJR016-APB101
+AJR016-APA145
+AJR016-APA12
+AW023-Unknown23
+AP18e7.2821.d5fc
+AW023-Unknown46
+AW023-AP107
+AW023-Unknown06
+AW023-Unknown42
+AW023-AP-Unknown02
+AP1005.ca63.db48
+AW023-Unknown16
+AW023-Unknown17
+AW023-AP-Unknown01
+AW023-Unknown61
+BUH064-APCOR209
+BUH064-AP210_A
+BUH064-APCOR217
+BUH064-AP201
+BUH064-APCOR211      2     AIR-CAP2602I-A-K9    4c:00:82:b9:6d:ca  default location  LAG   US       1
+BUH064-APCOR219      2     AIR-CAP2602I-A-K9    4c:00:82:cb:d5:ee  default location  LAG   US       1
+BUH064-AP209B        2     AIR-CAP2602I-A-K9    4c:00:82:70:ec:f1  default location  LAG   US       1
+BUH064-APCOR200B     2     AIR-CAP2602I-A-K9    4c:00:82:3c:c3:23  default location  LAG   US       1
+BUH064-APCOR215
+DM109-AP208_A        2     AIR-CAP2602I-A-K9    c0:67:af:11:bd:7a  default location  LAG   US       1
+DM109-AP110          2     AIR-CAP2602I-A-K9    c0:8c:60:24:b5:38  default location  LAG   US       1
+DM109-AP117          2     AIR-CAP2602I-A-K9    c0:67:af:58:be:5c  default location  LAG   US       1
+DM109-AP114          2     AIR-CAP2602I-A-K9    c0:8c:60:2c:69:0f  default location  LAG   US       1
+DM109-AP149          2     AIR-CAP2602I-A-K9    c0:67:af:11:da:95  default location  LAG   US       1
+DM109-AP116_C        2     AIR-CAP2602I-A-K9    c0:67:af:11:bd:b4  default location  LAG   US       1
+DM109-AP103_A        2     AIR-CAP2602I-A-K9    7c:69:f6:8d:3a:f0  default location  LAG   US       1
+DM109-AP113          2     AIR-CAP2602I-A-K9    7c:69:f6:8d:31:a9  default location  LAG   US       1
+DM109-APCOR211       2     AIR-CAP2602I-A-K9    c0:67:af:58:be:6c  default location  LAG   US       1
+DM109-AP103_B        2     AIR-CAP2602I-A-K9    c0:67:af:11:c0:af  default location  LAG   US       1
+DM109-AP115          2     AIR-CAP2602I-A-K9    7c:69:f6:bc:7c:61  default location  LAG   US       1
+DM109-AP121          2     AIR-CAP2602I-A-K9    c0:67:af:11:bc:33  default location  LAG   US       1
+DM109-AP116_A        2     AIR-CAP2602I-A-K9    c0:67:af:11:c0:ba  default location  LAG   US       1
+DM109-AP108          2     AIR-CAP2602I-A-K9    7c:69:f6:bc:7a:2a  default location  LAG   US       1
+DM109-AP104          2     AIR-CAP2602I-A-K9    c0:8c:60:24:c3:c6  default location  LAG   US       1
+DM109-AP145          2     AIR-CAP2602I-A-K9    c0:67:af:58:c0:87  default location  LAG   US       1
+DM109-AP131A         2     AIR-CAP2602I-A-K9    c0:67:af:11:db:31  default location  LAG   US       1
+DM109-AP208_B        2     AIR-CAP2602I-A-K9    c0:8c:60:24:db:3c  default location  LAG   US       1
+DM109-AP105          2     AIR-CAP2602I-A-K9    7c:69:f6:8d:31:8a  default location  LAG   US       1
+DM109-AP142          2     AIR-CAP2602I-A-K9    7c:69:f6:8d:2b:08  default location  LAG   US       1
+DM109-AP207          2     AIR-CAP2602I-A-K9    c0:8c:60:24:d8:e0  default location  LAG   US       1
+DM109-APCOR145       2     AIR-CAP2602I-A-K9    7c:69:f6:8d:3d:3f  default location  LAG   US       1
+DM109-AP102          2     AIR-CAP2602I-A-K9    c0:8c:60:24:c5:23  default location  LAG   US       1
+DM109-AP116_B        2     AIR-CAP2602I-A-K9    c0:8c:60:24:c4:39  default location  LAG   US       1
+DM109-AP162          2     AIR-CAP2602I-A-K9    c0:67:af:1e:2e:90  default location  LAG   US       1
+DM109-AP156          2     AIR-CAP2602I-A-K9    c0:8c:60:24:c4:3e  default location  LAG   US       1
+DM109-AP160          2     AIR-CAP2602I-A-K9    c0:67:af:11:be:21  default location  LAG   US       1
+DM109-AP151          2     AIR-CAP2602I-A-K9    c0:67:af:1e:2d:17  default location  LAG   US       1
+DM109-AP154
+DM109-AP229
+DM109-APCOR210       2     AIR-CAP2602I-A-K9    7c:69:f6:41:07:29  default location  LAG   US       1
+DM109-AP200          2     AIR-CAP2602I-A-K9    c0:67:af:1e:2d:f6  default location  LAG   US       1
+DM109-AP203B         2     AIR-CAP2602I-A-K9    7c:69:f6:8d:24:0a  default location  LAG   US       1
+DM109-AP217          2     AIR-CAP2602I-A-K9    7c:69:f6:8d:23:58  default location  LAG   US       1
+DM109-AP225          2     AIR-CAP2602I-A-K9    7c:69:f6:bc:74:7e  default location  LAG   US       1
+DM109-AP215          2     AIR-CAP2602I-A-K9    7c:69:f6:8d:37:3d  default location  LAG   US       1
+DM109-AP203C
+ECL148-AP220.2       2     AIR-CAP2602I-A-K9    4c:00:82:27:e1:2e  default location  LAG   US       1
+ECL148-AP223_A       2     AIR-CAP2602I-A-K9    7c:69:f6:26:6e:94  default location  LAG   US       1
+ECL148-AP207         2     AIR-CAP2602I-A-K9    4c:00:82:cb:d5:ec  default location  LAG   US       1
+ECL148-AP126
+ECL148-AP147         2     AIR-CAP2602I-A-K9    7c:69:f6:04:9e:65  default location  LAG   US       1
+ECL148-AP166         2     AIR-CAP2602I-A-K9    4c:00:82:b9:9a:fb  default location  LAG   US       1
+ECL148-AP132         2     AIR-CAP2602I-A-K9    4c:00:82:70:ec:a5  default location  LAG   US       1
+ECL148-AP201         2     AIR-CAP2602I-A-K9    bc:16:65:c1:f7:a7  default location  LAG   US       1
+ECL148-AP223_B       2     AIR-CAP2602I-A-K9    7c:69:f6:04:a9:d8  default location  LAG   US       1
+ECL148-AP113         2     AIR-CAP2602I-A-K9    bc:16:65:ff:61:20  default location  LAG   US       1
+ECL148-AP216         2     AIR-CAP2602I-A-K9    6c:41:6a:92:ae:13  default location  LAG   US       1
+ECL148-AP145         2     AIR-CAP2602I-A-K9    7c:69:f6:26:60:52  default location  LAG   US       1
+ECL148-APCOR207      2     AIR-CAP2602I-A-K9    4c:00:82:cb:d8:15  default location  LAG   US       1
+ECL148-AP152         2     AIR-CAP2602I-A-K9    4c:00:82:b9:8e:93  default location  LAG   US       1
+ECL148-AP135_B       2     AIR-CAP2602I-A-K9    4c:00:82:b9:6c:46  default location  LAG   US       1
+ECL148-AP108         2     AIR-CAP2602I-A-K9    4c:00:82:b3:dc:01  default location  LAG   US       1
+ECL148-AP104         2     AIR-CAP2602I-A-K9    6c:41:6a:a3:5a:9d  default location  LAG   US       1
+ECL148-APCOR216      2     AIR-CAP2602I-A-K9    7c:69:f6:26:60:6a  default location  LAG   US       1
+ECL148-AP109         2     AIR-CAP2602I-A-K9    4c:00:82:3c:dc:9a  default location  LAG   US       1
+ECL148-APCOR106      2     AIR-CAP2602I-A-K9    f8:72:ea:d7:5c:68  default location  LAG   US       1
+ECL148-APCOR131      2     AIR-CAP2602I-A-K9    4c:00:82:16:72:1b  default location  LAG   US       1
+ECL148-AP162         2     AIR-CAP2602I-A-K9    7c:69:f6:26:70:da  default location  LAG   US       1
+ECL148-APCOR135      2     AIR-CAP2602I-A-K9    4c:00:82:cb:d8:25  default location  LAG   US       1
+ECL148-AP135_A       2     AIR-CAP2602I-A-K9    4c:00:82:3c:da:6f  default location  LAG   US       1
+ECL148-APCOR221      2     AIR-CAP2602I-A-K9    4c:00:82:27:e3:32  default location  LAG   US       1
+ECL148-AP155_B
+FDR172-AP245         2     AIR-CAP2602I-A-K9    7c:69:f6:bc:6f:48  default location  LAG   US       1
+FDR172-AP212         2     AIR-CAP2602I-A-K9    c0:67:af:11:c2:91  default location  LAG   US       1
+FDR172-AP227         2     AIR-CAP2602I-A-K9    c0:67:af:1e:30:35  default location  LAG   US       1
+FDR172-AP109         2     AIR-CAP2602I-A-K9    7c:69:f6:41:07:5d  default location  LAG   US       1
+FDR172-AP232         2     AIR-CAP2602I-A-K9    c0:8c:60:24:da:ed  default location  LAG   US       1
+FDR172-APCORC213     2     AIR-CAP2602I-A-K9    f8:72:ea:d7:5c:7f  default location  LAG   US       1
+FDR172-APCOR101      2     AIR-CAP2602I-A-K9    7c:69:f6:8d:38:25  default location  LAG   US       1
+FDR172-AP164         2     AIR-CAP2602I-A-K9    7c:69:f6:56:cd:12  default location  LAG   US       1
+FDR172-AP238         2     AIR-CAP2602I-A-K9    f8:72:ea:87:1d:ca  default location  LAG   US       1
+FDR172-AP110         2     AIR-CAP2602I-A-K9    7c:69:f6:41:07:6d  default location  LAG   US       1
+FDR172-APCOR111_C
+FDR172-AP230         2     AIR-CAP2602I-A-K9    7c:69:f6:41:07:63  default location  LAG   US       1
+FDR172-AP201         2     AIR-CAP2602I-A-K9    c0:8c:60:24:c8:4a  default location  LAG   US       1
+FDR172-AP157_B       2     AIR-CAP2602I-A-K9    7c:69:f6:8d:38:23  default location  LAG   US       1
+FDR172-APCOR240      2     AIR-CAP2602I-A-K9    7c:69:f6:41:07:7f  default location  LAG   US       1
+FDR172-AP235         2     AIR-CAP2602I-A-K9    c0:67:af:11:db:23  default location  LAG   US       1
+FDR172-AP165         2     AIR-CAP2602I-A-K9    c0:8c:60:24:b3:7f  default location  LAG   US       1
+FDR172-AP157_A       2     AIR-CAP2602I-A-K9    7c:69:f6:40:fe:80  default location  LAG   US       1
+FDR172-AP210         2     AIR-CAP2602I-A-K9    c0:67:af:11:c5:40  default location  LAG   US       1
+FDR172-APT206        2     AIR-CAP2602I-A-K9    c0:8c:60:24:b3:80  default location  LAG   US       1
+FDR172-AP101         2     AIR-CAP2602I-A-K9    7c:69:f6:bc:70:67  default location  LAG   US       1
+FDR172-AP144         2     AIR-CAP2602I-A-K9    7c:69:f6:bc:74:95  default location  LAG   US       1
+FDR172-APT207        2     AIR-CAP2602I-A-K9    7c:69:f6:8d:29:57  default location  LAG   US       1
+FDR172-AP004         2     AIR-CAP2602I-A-K9    6c:41:6a:92:91:f8  default location  LAG   US       1
+FDR172-APCP          2     AIR-CAP2602I-A-K9    bc:16:65:b4:f2:07      Computer Lab  LAG   US       1
+FDR172-AP003         2     AIR-CAP2602I-A-K9    f8:72:ea:24:36:f1  default location  LAG   US       1
+FDR172-AP008         2     AIR-CAP2602I-A-K9    c0:8c:60:24:b3:d1  default location  LAG   US       1
+FDR172-APCOR140      2     AIR-CAP2602I-A-K9    c0:67:af:58:be:29  default location  LAG   US       1
+FDR172-APCOR153      2     AIR-CAP2602I-A-K9    c0:67:af:1e:2f:ff  default location  LAG   US       1
+FDR172-AP155         2     AIR-CAP2602I-A-K9    7c:69:f6:8d:1f:d5  default location  LAG   US       1
+FDR172-AP140         2     AIR-CAP2602I-A-K9    c0:8c:60:2c:5f:bc  default location  LAG   US       1
+FDR172-APCOR137      2     AIR-CAP2602I-A-K9    c0:67:af:1e:2d:24  default location  LAG   US       1
+FDR172-AP137         2     AIR-CAP2602I-A-K9    7c:69:f6:bc:74:57  default location  LAG   US       1
+FDR172-AP148B
+FDR172-AP153         2     AIR-CAP2602I-A-K9    7c:69:f6:8d:23:d5  default location  LAG   US       1
+FDR172-AP136         2     AIR-CAP2602I-A-K9    7c:69:f6:8d:23:dd  default location  LAG   US       1
+FDR172-AP229         2     AIR-CAP2602I-A-K9    c0:67:af:58:bf:c0  default location  LAG   US       1
+FDR172-APCOR111_B    2     AIR-CAP2602I-A-K9    7c:69:f6:8d:3b:1e  default location  LAG   US       1
+FDR172-AP115         2     AIR-CAP2602I-A-K9    7c:69:f6:8d:24:e4  default location  LAG   US       1
+FDR172-AP129         2     AIR-CAP2602I-A-K9    7c:69:f6:bc:6f:c4  default location  LAG   US       1
+FDR172-APCOR115_B    2     AIR-CAP2602I-A-K9    c0:8c:60:2c:79:fc  default location  LAG   US       1
+FDR172-APJ101        2     AIR-CAP2602I-A-K9    7c:69:f6:8d:3b:2c  default location  LAG   US       1
+FDR172-APCOR117      2     AIR-CAP2602I-A-K9    c0:67:af:11:bd:82  default location  LAG   US       1
+FDR172-AP116B        2     AIR-CAP2602I-A-K9    c0:67:af:11:c0:e0  default location  LAG   US       1
+FDR172-APCOR106      2     AIR-CAP2602I-A-K9    7c:69:f6:8d:24:e3  default location  LAG   US       1
+FDR172-AP114         2     AIR-CAP2602I-A-K9    7c:69:f6:41:07:6f  default location  LAG   US       1
+FDR172-AP240         2     AIR-CAP2602I-A-K9    7c:69:f6:8d:2b:04  default location  LAG   US       1
+FDR172-APCOR157
+FDR172-APCOR235
+GAR188-AP211         2     AIR-CAP2602I-A-K9    4c:00:82:cb:d4:ee  default location  LAG   US       1
+GAR188-AP135         2     AIR-CAP2602I-A-K9    7c:69:f6:04:9d:f5  default location  LAG   US       1
+GAR188-AP136C        2     AIR-CAP2602I-A-K9    7c:69:f6:04:9c:44  default location  LAG   US       1
+GAR188-AP218         2     AIR-CAP2602I-A-K9    4c:00:82:b9:6c:a3  default location  LAG   US       1
+GAR188-AP214         2     AIR-CAP2602I-A-K9    4c:00:82:cb:d4:8a  default location  LAG   US       1
+GAR188-AP207         2     AIR-CAP2602I-A-K9    4c:00:82:b9:8d:84  default location  LAG   US       1
+GAR188-AP152         2     AIR-CAP2602I-A-K9    4c:00:82:70:da:6c  default location  LAG   US       1
+GAR188-AP215         2     AIR-CAP2602I-A-K9    4c:00:82:b9:6e:2c  default location  LAG   US       1
+GAR188-AP213         2     AIR-CAP2602I-A-K9    4c:00:82:27:e4:ec  default location  LAG   US       1
+GAR188-AP146         2     AIR-CAP2602I-A-K9    4c:00:82:16:64:9f  default location  LAG   US       1
+GAR188-AP137         2     AIR-CAP2602I-A-K9    4c:00:82:cb:d5:df  default location  LAG   US       1
+GAR188-AP208         2     AIR-CAP2602I-A-K9    7c:69:f6:04:9a:ea  default location  LAG   US       1
+GAR188-AP149         2     AIR-CAP2602I-A-K9    4c:00:82:16:76:09  default location  LAG   US       1
+GAR188-AP216         2     AIR-CAP2602I-A-K9    4c:00:82:3c:cd:40  default location  LAG   US       1
+GAR188-AP151         2     AIR-CAP2602I-A-K9    4c:00:82:b3:cf:d2  default location  LAG   US       1
+GAR188-AP153         2     AIR-CAP2602I-A-K9    4c:00:82:70:da:9f  default location  LAG   US       1
+GAR188-AP136         2     AIR-CAP2602I-A-K9    4c:00:82:cb:d7:e8  default location  LAG   US       1
+GAR188-AP154         2     AIR-CAP2602I-A-K9    4c:00:82:3c:c5:47  default location  LAG   US       1
+GAR188-AP150
+GAR188-AP110         2     AIR-CAP2602I-A-K9    7c:69:f6:04:ab:a3  default location  LAG   US       1
+GAR188-AP107_B       2     AIR-CAP2602I-A-K9    7c:69:f6:04:ab:c4  default location  LAG   US       1
+GAR188-AP113         2     AIR-CAP2602I-A-K9    4c:00:82:16:64:e5  default location  LAG   US       1
+GAR188-AP101C        2     AIR-CAP2602I-A-K9    4c:00:82:27:e7:43  default location  LAG   US       1
+GAR188-AP112A        2     AIR-CAP2602I-A-K9    f8:72:ea:d7:5c:86  default location  LAG   US       1
+GAR188-AP117         2     AIR-CAP2602I-A-K9    4c:00:82:16:66:be  default location  LAG   US       1
+GAR188-AP201F        2     AIR-CAP2602I-A-K9    7c:69:f6:26:5b:c8  default location  LAG   US       1
+GAR188-AP101K        2     AIR-CAP2602I-A-K9    4c:00:82:16:6b:67  default location  LAG   US       1
+GAR188-APCOR111      2     AIR-CAP2602I-A-K9    7c:69:f6:04:9b:5e  default location  LAG   US       1
+GAR188-AP125
+GAR188-AP201E        2     AIR-CAP2602I-A-K9    4c:00:82:16:6e:ca  default location  LAG   US       1
+GAR188-AP112         2     AIR-CAP2602I-A-K9    4c:00:82:27:e2:04  default location  LAG   US       1
+GAR188-AP111         2     AIR-CAP2602I-A-K9    7c:69:f6:04:9b:3b  default location  LAG   US       1
+GAR188-AP108         2     AIR-CAP2602I-A-K9    4c:00:82:cb:d5:34  default location  LAG   US       1
+GAR188-AP115B        2     AIR-CAP2602I-A-K9    4c:00:82:b9:8e:bf  default location  LAG   US       1
+GAR188-AP201A        2     AIR-CAP2602I-A-K9    4c:00:82:16:6d:83  default location  LAG   US       1
+GAR188-AP116         2     AIR-CAP2602I-A-K9    4c:00:82:cb:d8:0c  default location  LAG   US       1
+GAR188-APCOR104A
+HG229-Unknown27      2     AIR-CAP2602I-A-K9    4c:00:82:16:6c:a8  default location  LAG   US       1
+HG229-Unknown28      2     AIR-CAP2602I-A-K9    4c:00:82:16:6d:58  default location  LAG   US       1
+HG229-Unknown25      2     AIR-CAP2602I-A-K9    4c:00:82:3c:c3:47  default location  LAG   US       1
+HG229-Unknown30      2     AIR-CAP2602I-A-K9    f8:72:ea:d7:2f:4d  default location  LAG   US       1
+HG229-Unknown16      2     AIR-CAP2602I-A-K9    4c:00:82:27:e8:30  default location  LAG   US       1
+HG229-Unknown29      2     AIR-CAP2602I-A-K9    78:da:6e:c2:73:66  default location  LAG   US       1
+HG229-AP103          2     AIR-CAP2602I-A-K9    6c:41:6a:ca:55:b9  default location  LAG   US       1
+HG229-Unknown14
+HG229-AP214          2     AIR-CAP2602I-A-K9    6c:41:6a:17:0b:ca  default location  LAG   US       1
+HG229-Unknown21
+HRI240-AP145_B
+HRI240-AP104A        2     AIR-CAP2602I-A-K9    7c:69:f6:26:6d:a9  default location  LAG   US       1
+HRI240-AP221_A
+HRI240-AP144_A       2     AIR-CAP2602I-A-K9    f8:72:ea:d7:5c:44  default location  LAG   US       1
+HRI240-AP117         2     AIR-CAP2602I-A-K9    4c:00:82:b9:8f:61  default location  LAG   US       1
+HRI240-APCOR202      2     AIR-CAP2602I-A-K9    7c:69:f6:26:70:c1  default location  LAG   US       1
+HRI240-AP110B
+HRI240-AP116         2     AIR-CAP2602I-A-K9    7c:69:f6:26:5e:2a  default location  LAG   US       1
+HRI240-AP217         2     AIR-CAP2602I-A-K9    4c:00:82:70:ec:d0  default location  LAG   US       1
+HRI240-AP147         2     AIR-CAP2602I-A-K9    7c:69:f6:26:5d:72  default location  LAG   US       1
+HRI240-AP141_B       2     AIR-CAP2602I-A-K9    f8:72:ea:24:4d:20  default location  LAG   US       1
+HRI240-AP207B        2     AIR-CAP2602I-A-K9    4c:00:82:27:e7:31  default location  LAG   US       1
+HRI240-AP145_A       2     AIR-CAP2602I-A-K9    4c:00:82:b9:8d:b7  default location  LAG   US       1
+HRI240-AP144_B       2     AIR-CAP2602I-A-K9    4c:00:82:27:e0:a7  default location  LAG   US       1
+HRI240-APCOR216      2     AIR-CAP2602I-A-K9    4c:00:82:70:e3:9b  default location  LAG   US       1
+HRI240-AP221_B
+JFR273-APCOR31_A     2     AIR-CAP2602I-A-K9    c0:8c:60:2c:7e:fa  default location  LAG   US       1
+JFR273-APCOR108      2     AIR-CAP2602I-A-K9    c0:67:af:58:be:a0  default location  LAG   US       1
+JFR273-APLIB_OFF     2     AIR-CAP2602I-A-K9    6c:41:6a:a3:4c:13  default location  LAG   US       1
+JFR273-APCOR112      2     AIR-CAP2602I-A-K9    c0:67:af:58:be:11  default location  LAG   US       1
+JFR273-APCOR31_B     2     AIR-CAP2602I-A-K9    c0:8c:60:2c:7f:4c  default location  LAG   US       1
+JFR273-AP308C        2     AIR-CAP2602I-A-K9    c0:67:af:11:d9:00  default location  LAG   US       1
+JFR273-AP308         2     AIR-CAP2602I-A-K9    c0:8c:60:2c:7a:26  default location  LAG   US       1
+JFR273-AP308E        2     AIR-CAP2602I-A-K9    c0:8c:60:24:d8:c3  default location  LAG   US       1
+JFR273-APCORMECH3_A  2     AIR-CAP2602I-A-K9    c0:8c:60:24:db:77  default location  LAG   US       1
+JFR273-APCORMECH3_C  2     AIR-CAP2602I-A-K9    c0:67:af:58:c0:9a  default location  LAG   US       1
+JFR273-AP313         2     AIR-CAP2602I-A-K9    c0:8c:60:2c:79:99  default location  LAG   US       1
+JFR273-APCOR316      2     AIR-CAP2602I-A-K9    c0:67:af:1e:30:07  default location  LAG   US       1
+JFR273-APCOR313      2     AIR-CAP2602I-A-K9    7c:69:f6:8d:38:2f  default location  LAG   US       1
+JFR273-AP311         2     AIR-CAP2602I-A-K9    c0:67:af:11:d8:91  default location  LAG   US       1
+JFR273-AP310         2     AIR-CAP2602I-A-K9    7c:69:f6:8d:38:36  default location  LAG   US       1
+JFR273-AP314         2     AIR-CAP2602I-A-K9    c0:8c:60:2c:7a:d1  default location  LAG   US       1
+JFR273-APCOR311      2     AIR-CAP2602I-A-K9    c0:67:af:1e:2d:f0  default location  LAG   US       1
+JFR273-AP303         2     AIR-CAP2602I-A-K9    7c:69:f6:bc:6f:95  default location  LAG   US       1
+JFR273-APMECH3       2     AIR-CAP2602I-A-K9    c0:67:af:1e:2f:e4  default location  LAG   US       1
+JFR273-AP312         2     AIR-CAP2602I-A-K9    7c:69:f6:8d:38:37  default location  LAG   US       1
+JFR273-APCORMECH3_B  2     AIR-CAP2602I-A-K9    c0:67:af:1e:2f:ec  default location  LAG   US       1
+JFR273-AP105         2     AIR-CAP3702I-A-K9    50:87:89:ff:f3:f8  default location  LAG   US       1
+JFR273-APCORAUD_C    2     AIR-CAP2602I-A-K9    c0:8c:60:24:d8:fe  default location  LAG   US       1
+AP78da.6e85.314e     2     AIR-CAP2602I-A-K9    78:da:6e:85:31:4e  default location  LAG   US       1
+JFR273-AP28_A        2     AIR-CAP2602I-A-K9    c0:8c:60:24:c3:d0  default location  LAG   US       1
+JFR273-APCOR105      2     AIR-CAP2602I-A-K9    c0:8c:60:24:c4:4b  default location  LAG   US       1
+JFR273-AP44          2     AIR-CAP2602I-A-K9    c0:67:af:11:c0:47  default location  LAG   US       1
+JFR273-APCORAUD_A    2     AIR-CAP2602I-A-K9    7c:69:f6:bc:74:52  default location  LAG   US       1
+JFR273-APCOR104      2     AIR-CAP2602I-A-K9    7c:69:f6:8d:31:af  default location  LAG   US       1
+JFR273-APSTAGE       2     AIR-CAP2602I-A-K9    7c:69:f6:bc:74:4c  default location  LAG   US       1
+JFR273-APCOR20_A     2     AIR-CAP2602I-A-K9    c0:8c:60:24:c9:58  default location  LAG   US       1
+JFR273-APGYM1_B      2     AIR-CAP2602I-A-K9    4c:00:82:b9:6c:be  default location  LAG   US       1
+JFR273-AP001A_B      2     AIR-CAP2602I-A-K9    7c:69:f6:8d:3e:f4  default location  LAG   US       1
+JFR273-APCOR6_B      2     AIR-CAP2602I-A-K9    c0:8c:60:24:c5:1f  default location  LAG   US       1
+JFR273-AP12_A        2     AIR-CAP2602I-A-K9    c0:67:af:11:c5:28  default location  LAG   US       1
+JFR273-APCOR20_B     2     AIR-CAP2602I-A-K9    c0:8c:60:2c:80:54  default location  LAG   US       1
+JFR273-AP12_B        2     AIR-CAP2602I-A-K9    c0:8c:60:24:c6:9c  default location  LAG   US       1
+JFR273-APCOR135      2     AIR-CAP2602I-A-K9    c0:8c:60:24:da:ec  default location  LAG   US       1
+JFR273-APCOR131      2     AIR-CAP2602I-A-K9    c0:67:af:11:c1:3d  default location  LAG   US       1
+JFR273-AP230_B       2     AIR-CAP2602I-A-K9    7c:69:f6:26:65:f8  default location  LAG   US       1
+JFR273-AP207         2     AIR-CAP2602I-A-K9    c0:8c:60:24:b3:82  default location  LAG   US       1
+JFR273-AP232_A       2     AIR-CAP2602I-A-K9    7c:69:f6:8d:39:03  default location  LAG   US       1
+JFR273-AP233         2     AIR-CAP2602I-A-K9    c0:8c:60:24:db:08  default location  LAG   US       1
+JFR273-APCOR203      2     AIR-CAP2602I-A-K9    00:06:f6:ec:e9:a8  default location  LAG   US       1
+JFR273-AP205         2     AIR-CAP2602I-A-K9    c0:67:af:11:c0:c4  default location  LAG   US       1
+AP7c69.f6bc.6f45     2     AIR-CAP2602I-A-K9    7c:69:f6:bc:6f:45  default location  LAG   US       1
+JFR273-APCOR233      2     AIR-CAP2602I-A-K9    c0:67:af:1e:30:5f  default location  LAG   US       1
+JFR273-APCOR203A     2     AIR-CAP2602I-A-K9    7c:69:f6:8d:31:ac  default location  LAG   US       1
+JFR273-APCOR230      2     AIR-CAP2602I-A-K9    c0:67:af:58:c0:26  default location  LAG   US       1
+JFR273-AP232_B
+JFR273-APCOR231
+JFR273-APCOR225      2     AIR-CAP2602I-A-K9    c0:8c:60:24:d9:c2  default location  LAG   US       1
+JFR273-AP226         2     AIR-CAP2602I-A-K9    c0:67:af:11:c1:97  default location  LAG   US       1
+JFR273-APCOR209      2     AIR-CAP2602I-A-K9    c0:67:af:1e:30:45  default location  LAG   US       1
+JFR273-AP219         2     AIR-CAP2602I-A-K9    f8:72:ea:87:0a:af  default location  LAG   US       1
+JFR273-APCOR211      2     AIR-CAP2602I-A-K9    c0:67:af:58:be:4f  default location  LAG   US       1
+JFR273-APMEDIA_C     2     AIR-CAP2602I-A-K9    c0:67:af:1e:2e:76  default location  LAG   US       1
+JFR273-APMECH2       2     AIR-CAP2602I-A-K9    c0:8c:60:24:c8:4d  default location  LAG   US       1
+JFR273-AP211         2     AIR-CAP2602I-A-K9    c0:8c:60:24:d9:44  default location  LAG   US       1
+JFR273-AP201         2     AIR-CAP2602I-A-K9    c0:8c:60:24:d8:d4  default location  LAG   US       1
+JFR273-APKIT_B       2     AIR-CAP2602I-A-K9    7c:69:f6:bc:6c:ce  default location  LAG   US       1
+JFR273-AP223         2     AIR-CAP2602I-A-K9    7c:69:f6:8d:29:47  default location  LAG   US       1
+JFR273-APCOR216      2     AIR-CAP2602I-A-K9    4c:00:82:b3:f6:e1  default location  LAG   US       1
+JFR273-APCOR100      2     AIR-CAP2602I-A-K9    c0:67:af:58:be:9c  default location  LAG   US       1
+JFR273-APCOR141      2     AIR-CAP2602I-A-K9    7c:69:f6:bc:74:4d  default location  LAG   US       1
+JFR273-AP106A
+JH284-AP013          2     AIR-CAP2602I-A-K9    4c:00:82:b9:8d:b1  default location  LAG   US       1
+JH284-AP082          2     AIR-CAP2602I-A-K9    6c:41:6a:92:ae:16  default location  LAG   US       1
+JH284-APCOR97        2     AIR-CAP2602I-A-K9    4c:00:82:16:64:e8  default location  LAG   US       1
+JH284-APCOR92        2     AIR-CAP2602I-A-K9    4c:00:82:16:63:b3  default location  LAG   US       1
+JH284-AP048          2     AIR-CAP2602I-A-K9    4c:00:82:70:e1:96  default location  LAG   US       1
+JH284-AP108          2     AIR-CAP2602I-A-K9    4c:00:82:3c:da:d7  default location  LAG   US       1
+JH284-AP023          2     AIR-CAP2602I-A-K9    4c:00:82:16:70:6f  default location  LAG   US       1
+JH284-APCOR14        2     AIR-CAP2602I-A-K9    7c:69:f6:04:9c:42  default location  LAG   US       1
+JH284-AP105          2     AIR-CAP2602I-A-K9    4c:00:82:16:6a:8c  default location  LAG   US       1
+JH284-AP094          2     AIR-CAP2602I-A-K9    7c:69:f6:26:5f:8b  default location  LAG   US       1
+JH284-AP021          2     AIR-CAP2602I-A-K9    7c:69:f6:04:9c:0b  default location  LAG   US       1
+JH284-AP038          2     AIR-CAP2602I-A-K9    7c:69:f6:04:9b:14  default location  LAG   US       1
+JH284-APCOR114A      2     AIR-CAP2602I-A-K9    7c:69:f6:26:5d:3f  default location  LAG   US       1
+JH284-AP104          2     AIR-CAP2602I-A-K9    fc:99:47:d9:9c:cf  default location  LAG   US       1
+JH284-AP043          2     AIR-CAP2602I-A-K9    4c:00:82:3c:cf:a6  default location  LAG   US       1
+JH284-AP003          2     AIR-CAP2602I-A-K9    f8:72:ea:24:54:98  default location  LAG   US       1
+JH284-APCOR171       2     AIR-CAP2602I-A-K9    7c:69:f6:26:5d:5e  default location  LAG   US       1
+JH284-APLIB          2     AIR-CAP2602I-A-K9    4c:00:82:3c:d9:5e  default location  LAG   US       1
+JH284-AP254          2     AIR-CAP2602I-A-K9    7c:69:f6:26:5d:98  default location  LAG   US       1
+JH284-AP268          2     AIR-CAP2602I-A-K9    4c:00:82:27:ec:be  default location  LAG   US       1
+JH284-AP262          2     AIR-CAP2602I-A-K9    4c:00:82:27:e9:a3  default location  LAG   US       1
+JH284-AP351A         2     AIR-CAP2602I-A-K9    4c:00:82:27:e3:19  default location  LAG   US       1
+JH284-AP351          2     AIR-CAP2602I-A-K9    4c:00:82:16:64:7b  default location  LAG   US       1
+JH284-AP374          2     AIR-CAP2602I-A-K9    4c:00:82:3c:bb:e0  default location  LAG   US       1
+JH284-AP382          2     AIR-CAP2602I-A-K9    4c:00:82:27:e2:a8  default location  LAG   US       1
+JH284-AP182          2     AIR-CAP2602I-A-K9    7c:69:f6:26:70:d6  default location  LAG   US       1
+JH284-AP184          2     AIR-CAP2602I-A-K9    bc:16:65:b4:e9:7c  default location  LAG   US       1
+JH284-AP275          2     AIR-CAP2602I-A-K9    4c:00:82:70:da:76  default location  LAG   US       1
+JH284-AP204          2     AIR-CAP2602I-A-K9    4c:4e:35:3d:85:e2  default location  LAG   US       1
+JH284-AP211
+JH284-AP341          2     AIR-CAP2602I-A-K9    4c:00:82:3c:ca:fd  default location  LAG   US       1
+JH284-APCOR333       2     AIR-CAP2602I-A-K9    4c:00:82:16:70:e1  default location  LAG   US       1
+JH284-AP316          2     AIR-CAP2602I-A-K9    4c:00:82:cb:d4:80  default location  LAG   US       1
+JH284-AP116_B        2     AIR-CAP2602I-A-K9    4c:00:82:16:62:19  default location  LAG   US       1
+JH284-APCOR338       2     AIR-CAP2602I-A-K9    7c:69:f6:40:d8:28  default location  LAG   US       1
+JH284-AP333          2     AIR-CAP2602I-A-K9    4c:00:82:3c:cc:00  default location  LAG   US       1
+JH284-AP349          2     AIR-CAP2602I-A-K9    4c:00:82:3c:bc:fd  default location  LAG   US       1
+JH284-APCOR242       2     AIR-CAP2602I-A-K9    7c:69:f6:26:5c:e8  default location  LAG   US       1
+JH284-AP115          2     AIR-CAP2602I-A-K9    4c:00:82:27:e1:c0  default location  LAG   US       1
+JH284-AP116_A        2     AIR-CAP2602I-A-K9    f8:72:ea:d7:5c:4e  default location  LAG   US       1
+JH284-APCOR331       2     AIR-CAP2602I-A-K9    4c:00:82:16:70:8d  default location  LAG   US       1
+JH284-APCOR114       2     AIR-CAP2602I-A-K9    f8:72:ea:d7:5e:a1  default location  LAG   US       1
+JH284-AP141          2     AIR-CAP2602I-A-K9    f8:72:ea:d7:5d:1b  default location  LAG   US       1
+JH284-APCOR153       2     AIR-CAP2602I-A-K9    7c:69:f6:26:5d:24  default location  LAG   US       1
+JH284-AP143          2     AIR-CAP2602I-A-K9    4c:00:82:16:64:7a  default location  LAG   US       1
+JH284-AP315          2     AIR-CAP2602I-A-K9    4c:00:82:b9:8d:f3  default location  LAG   US       1
+JH284-AP132          2     AIR-CAP2602I-A-K9    4c:00:82:16:63:f1  default location  LAG   US       1
+JH284-AP311
+JH284-AP114          2     AIR-CAP2602I-A-K9    4c:00:82:70:e3:2e  default location  LAG   US       1
+JH284-AP216          2     AIR-CAP2602I-A-K9    4c:00:82:b9:8e:64  default location  LAG   US       1
+JH284-AP215
+JOA276-MC-AP322      2     AIR-CAP2602I-A-K9    7c:69:f6:8d:2a:aa  default location  LAG   US       1
+JOA276-MC-AP218      2     AIR-CAP2602I-A-K9    c0:8c:60:2c:7f:4a  default location  LAG   US       1
+JOA276-MC-AP318      2     AIR-CAP2602I-A-K9    7c:69:f6:8d:2a:b0  default location  LAG   US       1
+JOA276-MC-AP222      2     AIR-CAP2602I-A-K9    c0:8c:60:24:c8:9e  default location  LAG   US       1
+JOA276-MC-AP215      2     AIR-CAP2602I-A-K9    c0:8c:60:24:c8:41  default location  LAG   US       1
+JOA276-MC-AP310      2     AIR-CAP2602I-A-K9    7c:69:f6:bc:7c:3f  default location  LAG   US       1
+JOA276-MC-AP119      2     AIR-CAP2602I-A-K9    c0:67:af:1e:2e:4b  default location  LAG   US       1
+JOA276-MC-AP122      2     AIR-CAP2602I-A-K9    c0:67:af:1e:2c:30  default location  LAG   US       1
+JOA276-TR1A-AP142    2     AIR-CAP2602I-A-K9    7c:69:f6:41:07:77  default location  LAG   US       1
+JOA276-MC-AP210      2     AIR-CAP2602I-A-K9    c0:8c:60:2c:7d:90  default location  LAG   US       1
+JOA276-MC-AP212      2     AIR-CAP2602I-A-K9    c0:8c:60:2c:7f:75  default location  LAG   US       1
+JOA276-MC-AP112      2     AIR-CAP2602I-A-K9    c0:67:af:1e:2b:cd  default location  LAG   US       1
+JOA276-MC-AP312      2     AIR-CAP2602I-A-K9    7c:69:f6:41:09:30  default location  LAG   US       1
+JOA276-APLibrary     2     AIR-CAP3502I-A-K9    a4:93:4c:f3:03:10  default location  LAG   US       1
+JOA276-APMainOffice  2     AIR-CAP3502I-A-K9    d8:67:d9:d1:6e:4a  Main office side  LAG   US       1
+JOA276-APEastEntranceHall  2     AIR-CAP3502I-A-K9    a4:93:4c:d4:05:94  default location  LAG   US       1
+JOA276-AP115Corr
+JOA276-AP103         2     AIR-CAP2602I-A-K9    c0:67:af:1e:30:43  default location  LAG   US       1
+JOA276-AP304         2     AIR-CAP2602I-A-K9    6c:41:6a:78:d9:d6  default location  LAG   US       1
+JOA276-AP303         2     AIR-CAP2602I-A-K9    c0:8c:60:2c:7d:b1  default location  LAG   US       1
+JOA276-AP308         2     AIR-CAP2602I-A-K9    c0:8c:60:24:c6:b8  default location  LAG   US       1
+JOA276-AP204         2     AIR-CAP2602I-A-K9    c0:8c:60:2c:7f:6e  default location  LAG   US       1
+JOA276-AP108         2     AIR-CAP2602I-A-K9    c0:67:af:11:db:3b  default location  LAG   US       1
+JOA276-AP306         2     AIR-CAP2602I-A-K9    c0:8c:60:24:c7:1a  default location  LAG   US       1
+JOA276-AP309         2     AIR-CAP2602I-A-K9    c0:67:af:11:c2:61  default location  LAG   US       1
+JOA276-AP201         2     AIR-CAP2602I-A-K9    c0:8c:60:2c:61:a6  default location  LAG   US       1
+JOA276-AP209         2     AIR-CAP2602I-A-K9    7c:69:f6:8d:24:80  default location  LAG   US       1
+JOA276-AP203         2     AIR-CAP2602I-A-K9    7c:69:f6:bc:75:ea  default location  LAG   US       1
+JOA276-AP208         2     AIR-CAP2602I-A-K9    7c:69:f6:8d:24:06  default location  LAG   US       1
+JOA276-APMechRoom1stFloor
+JOA276-TR1B-AP165    2     AIR-CAP2602I-A-K9    c0:8c:60:24:d9:b6  default location  LAG   US       1
+JOA276-TR1B-APMUSIC  2     AIR-CAP2602I-A-K9    c0:67:af:58:be:98  default location  LAG   US       1
+JOA276-APWareRoom    2     AIR-CAP3502I-A-K9    d4:8c:b5:2f:20:2a  default location  LAG   US       1
+JOA276-APMechRoom
+MBM347-AP204         2     AIR-CAP2602I-A-K9    4c:00:82:16:71:26  default location  LAG   US       1
+MBM347-AP219         2     AIR-CAP2602I-A-K9    4c:00:82:b9:8e:b8  default location  LAG   US       1
+MBM347-AP212         2     AIR-CAP2602I-A-K9    4c:00:82:cb:d5:fa  default location  LAG   US       1
+MBM347-AP230         2     AIR-CAP2602I-A-K9    4c:00:82:3c:d6:2e  default location  LAG   US       1
+MBM347-APCOR201      2     AIR-CAP2602I-A-K9    4c:00:82:27:de:a4  default location  LAG   US       1
+MBM347-AP232         2     AIR-CAP2602I-A-K9    4c:00:82:70:e8:c9  default location  LAG   US       1
+MBM347-AP235         2     AIR-CAP2602I-A-K9    4c:00:82:b9:6a:c4  default location  LAG   US       1
+MBM347-APCOR227      2     AIR-CAP2602I-A-K9    f8:72:ea:24:55:62  default location  LAG   US       1
+MBM347-AP228         2     AIR-CAP2602I-A-K9    4c:00:82:70:ec:d3  default location  LAG   US       1
+MBM347-AP225         2     AIR-CAP2602I-A-K9    6c:41:6a:92:b2:f6  default location  LAG   US       1
+MBM347-AP106         2     AIR-CAP2602I-A-K9    4c:00:82:b3:cf:c8  default location  LAG   US       1
+MBM347-AP217         2     AIR-CAP2602I-A-K9    7c:69:f6:04:9c:12  default location  LAG   US       1
+MBM347-AP223         2     AIR-CAP2602I-A-K9    f8:72:ea:23:cb:ca  default location  LAG   US       1
+MBM347-APCOR223      2     AIR-CAP2602I-A-K9    f8:72:ea:23:cb:d3  default location  LAG   US       1
+MBM347-AP237         2     AIR-CAP2602I-A-K9    4c:00:82:70:ed:10  default location  LAG   US       1
+MBM347-AP213         2     AIR-CAP2602I-A-K9    7c:69:f6:04:9c:34  default location  LAG   US       1
+MBM347-APCOR107      2     AIR-CAP2602I-A-K9    4c:00:82:3c:c5:12  default location  LAG   US       1
+MBM347-AP134A        2     AIR-CAP2602I-A-K9    4c:00:82:b3:da:61  default location  LAG   US       1
+MBM347-APCOR126      2     AIR-CAP2602I-A-K9    4c:00:82:b9:8e:56  default location  LAG   US       1
+MBM347-AP132         2     AIR-CAP2602I-A-K9    7c:69:f6:26:5d:49  default location  LAG   US       1
+MBM347-APCOR138      2     AIR-CAP2602I-A-K9    4c:00:82:b3:d0:d6  default location  LAG   US       1
+MBM347-APCOR129      2     AIR-CAP2602I-A-K9    7c:69:f6:04:a8:cc  default location  LAG   US       1
+MBM347-APCOR103      2     AIR-CAP2602I-A-K9    4c:00:82:3c:bf:17  default location  LAG   US       1
+MBM347-APCOR007      2     AIR-CAP2602I-A-K9    f8:72:ea:d7:5c:be  default location  LAG   US       1
+MBM347-APCOR208
+MEM027-APCOR208B     2     AIR-CAP2602I-A-K9    4c:00:82:27:ee:5c  default location  LAG   US       1
+MEM027-APCOR138C     2     AIR-CAP2602I-A-K9    4c:00:82:27:ed:63  default location  LAG   US       1
+MEM027-APCOR100      2     AIR-CAP2602I-A-K9    4c:00:82:cb:d4:bb  default location  LAG   US       1
+MEM027-APCOR117      2     AIR-CAP2602I-A-K9    7c:69:f6:04:9c:07  default location  LAG   US       1
+MEM027-APCOR135      2     AIR-CAP2602I-A-K9    7c:69:f6:26:60:66  default location  LAG   US       1
+MEM027-APCOR123      2     AIR-CAP2602I-A-K9    4c:00:82:b9:8e:c1  default location  LAG   US       1
+AP7c69.f626.5e17     2     AIR-CAP2602I-A-K9    7c:69:f6:26:5e:17  default location  LAG   US       1
+APbc16.65c1.fc8f     2     AIR-CAP2602I-A-K9    bc:16:65:c1:fc:8f  default location  LAG   US       1
+MEM027-AP112
+MH349N-TR1-AP124D    2     AIR-CAP2602I-A-K9    f8:c2:88:84:1b:f0  default location  LAG   US       1
+MH349N-TR4-AP038     2     AIR-CAP2602I-A-K9    1c:6a:7a:e2:80:c6  default location  LAG   US       1
+MH349N-TR1-AP124C    2     AIR-CAP2602I-A-K9    1c:6a:7a:12:17:40  default location  LAG   US       1
+MH349N-TR3-AP021     2     AIR-CAP2602I-A-K9    1c:6a:7a:7b:b1:8d  default location  LAG   US       1
+MH349N-TR3-AP008A    2     AIR-CAP2602I-A-K9    f4:4e:05:3b:f9:49  default location  LAG   US       1
+MH349N-TR1-AP117B    2     AIR-CAP2602I-A-K9    1c:6a:7a:e2:81:d9  default location  LAG   US       1
+MH349N-TR2-AP144     2     AIR-CAP2602I-A-K9    1c:6a:7a:12:15:43  default location  LAG   US       1
+MH349N-TR1-AP124A    2     AIR-CAP2602I-A-K9    f4:4e:05:3b:f9:b6  default location  LAG   US       1
+MH349N-TR4-AP040B    2     AIR-CAP2602I-A-K9    f4:4e:05:3b:f9:4c  default location  LAG   US       1
+MH349N-TR3-AP008B    2     AIR-CAP2602I-A-K9    1c:6a:7a:7b:b1:53  default location  LAG   US       1
+MH349N-APAutoBodyExt  2     AIR-CAP1602E-A-K9    a0:ec:f9:38:74:cd  default location  LAG   US       1
+MH349N-TR2-AP131     2     AIR-CAP2602I-A-K9    f4:0f:1b:e7:2a:e8  default location  LAG   US       1
+MH349-TBD02          2     AIR-CAP2602I-A-K9    f4:0f:1b:e7:2d:26  default location  LAG   US       1
+MH349N-TR3-AP017     2     AIR-CAP2602I-A-K9    f8:c2:88:84:18:e5  default location  LAG   US       1
+MH349N-TR3-AP016     2     AIR-CAP2602I-A-K9    f4:0f:1b:e7:2c:86  default location  LAG   US       1
+MH349N-TR1-AP124B    2     AIR-CAP2602I-A-K9    f8:c2:88:34:ee:0b  default location  LAG   US       1
+MH349N-TR2-AP137     2     AIR-CAP2602I-A-K9    f0:7f:06:4f:7a:a2  default location  LAG   US       1
+MH349N-TR4-AP027     2     AIR-CAP2602I-A-K9    1c:6a:7a:e2:81:fc  default location  LAG   US       1
+MH349N-MDF-AP103K    2     AIR-CAP2602I-A-K9    f0:7f:06:4f:7a:cc  default location  LAG   US       1
+MH349N-AP            2     AIR-CAP2602I-A-K9    a0:ec:f9:51:e8:96  default location  LAG   US       1
+MH349N-TR4-AP035C    2     AIR-CAP2602I-A-K9    1c:6a:7a:5a:d2:5e  default location  LAG   US       1
+MH349N-MDF-AP103B    2     AIR-CAP2602I-A-K9    f4:4e:05:3b:fa:1d  default location  LAG   US       1
+MH349N-TR2-AP139     2     AIR-CAP2602I-A-K9    f4:4e:05:3b:f9:f5  default location  LAG   US       1
+MH349N-TR4-AP035EXT  2     AIR-CAP1602E-A-K9    58:f3:9c:b8:1c:48  default location  LAG   US       1
+MH349N-MDF-AP210     2     AIR-CAP2602I-A-K9    f0:7f:06:4f:7b:a1  default location  LAG   US       1
+MH349N-TR4-AP037     2     AIR-CAP2602I-A-K9    f8:c2:88:34:ee:0e  default location  LAG   US       1
+MH349N-TR3-AP009A    2     AIR-CAP2602I-A-K9    1c:6a:7a:5a:d3:1a  default location  LAG   US       1
+MH349N-TR4-AP023     2     AIR-CAP2602I-A-K9    f0:7f:06:4f:7b:47  default location  LAG   US       1
+MH349N-TR1-AP117A    2     AIR-CAP2602I-A-K9    f0:7f:06:1e:ab:5d  default location  LAG   US       1
+MH349-TR1-AP253      2     AIR-CAP2602I-A-K9    4c:00:82:cb:d7:cb  default location  LAG   US       1
+MH349N-TR4-AP026     2     AIR-CAP2602I-A-K9    f4:4e:05:3b:fa:58  default location  LAG   US       1
+MH349-TBD01          2     AIR-CAP2602I-A-K9    1c:6a:7a:5a:c8:ee  default location  LAG   US       1
+MH349-TBD05          2     AIR-CAP2602I-A-K9    1c:6a:7a:e2:81:82  default location  LAG   US       1
+MH349N-TR4-AP035A    2     AIR-CAP2602I-A-K9    1c:6a:7a:5a:d2:aa  default location  LAG   US       1
+MH349N-MDF-AP214A    2     AIR-CAP2602I-A-K9    f4:0f:1b:e7:30:15  default location  LAG   US       1
+MH349N-MDF-AP214B    2     AIR-CAP2602I-A-K9    f4:0f:1b:e7:30:35  default location  LAG   US       1
+MH349N-TR3-AP015     2     AIR-CAP2602I-A-K9    f8:c2:88:84:1b:ae  default location  LAG   US       1
+MH349-TBD03          2     AIR-CAP2602I-A-K9    f4:4e:05:3b:f9:ec  default location  LAG   US       1
+MH349N-TR4-AP022     2     AIR-CAP2602I-A-K9    f0:7f:06:1e:ab:80  default location  LAG   US       1
+MH349N-TR1-AP120B    2     AIR-CAP2602I-A-K9    f0:7f:06:1e:ab:5f  default location  LAG   US       1
+MH349N-TR4-AP040C    2     AIR-CAP2602I-A-K9    1c:6a:7a:e2:81:d3  default location  LAG   US       1
+MH349N-TR4-AP040A
+MMB350-AP117B        2     AIR-CAP2602I-A-K9    6c:41:6a:16:f8:5d  default location  LAG   US       1
+MMB350-APCOR116      2     AIR-CAP2602I-A-K9    4c:00:82:27:e1:2c  default location  LAG   US       1
+MMB350-AP155         2     AIR-CAP2602I-A-K9    4c:00:82:3c:c0:ae  default location  LAG   US       1
+MMB350-AP116B        2     AIR-CAP2602I-A-K9    4c:00:82:27:e1:99  default location  LAG   US       1
+MMB350-APCOR155      2     AIR-CAP2602I-A-K9    4c:00:82:27:e7:f3  default location  LAG   US       1
+MMB350-AP106         2     AIR-CAP2602I-A-K9    4c:00:82:16:62:ca  default location  LAG   US       1
+MMB350-AP105         2     AIR-CAP2602I-A-K9    f8:72:ea:d7:55:e4  default location  LAG   US       1
+MMB350-AP146         2     AIR-CAP2602I-A-K9    4c:00:82:3c:bc:e3  default location  LAG   US       1
+AP4c00.8216.6a73     2     AIR-CAP2602I-A-K9    4c:00:82:16:6a:73  default location  LAG   US       1
+MMB350-APCOR132      2     AIR-CAP2602I-A-K9    7c:69:f6:04:9b:18  default location  LAG   US       1
+MMB350-APGYM         2     AIR-CAP2602I-A-K9    f8:72:ea:86:f1:98  default location  LAG   US       1
+MMB350-APCOR128      2     AIR-CAP2602I-A-K9    4c:00:82:cb:d7:e3  default location  LAG   US       1
+MMB350-AP119         2     AIR-CAP2602I-A-K9    7c:69:f6:26:6d:ce  default location  LAG   US       1
+MMB350-AP130         2     AIR-CAP2602I-A-K9    f8:72:ea:23:cb:06  default location  LAG   US       1
+MMB350-AP123         2     AIR-CAP2602I-A-K9    7c:69:f6:26:73:2c  default location  LAG   US       1
+MMB350-AP137_A       2     AIR-CAP2602I-A-K9    7c:69:f6:04:9b:56  default location  LAG   US       1
+MMB350-AP140         2     AIR-CAP2602I-A-K9    4c:00:82:cb:e7:1a  default location  LAG   US       1
+MMB350-APCOR137      2     AIR-CAP2602I-A-K9    4c:00:82:b9:8d:e0  default location  LAG   US       1
+MMB350-APCOR123      2     AIR-CAP2602I-A-K9    f8:72:ea:46:d2:53  default location  LAG   US       1
+MMB350-APCOR126      2     AIR-CAP2602I-A-K9    f8:72:ea:24:57:30  default location  LAG   US       1
+MMB350-AP137_B
+MMB350-APCOR237      2     AIR-CAP2602I-A-K9    f8:72:ea:24:4d:b7  default location  LAG   US       1
+MMB350-AP205         2     AIR-CAP2602I-A-K9    4c:00:82:3c:bd:bc  default location  LAG   US       1
+MMB350-AP217         2     AIR-CAP2602I-A-K9    4c:00:82:27:eb:ae  default location  LAG   US       1
+MMB350-AP215         2     AIR-CAP2602I-A-K9    4c:00:82:27:ea:3e  default location  LAG   US       1
+MMB350-AP238         2     AIR-CAP2602I-A-K9    7c:69:f6:04:9b:6e  default location  LAG   US       1
+MMB350-AP220         2     AIR-CAP2602I-A-K9    4c:00:82:70:db:13  default location  LAG   US       1
+MMB350-AP201         2     AIR-CAP2602I-A-K9    7c:69:f6:26:5d:4a  default location  LAG   US       1
+MMB350-AP214         2     AIR-CAP2602I-A-K9    4c:00:82:16:62:1b  default location  LAG   US       1
+MMB350-AP226         2     AIR-CAP2602I-A-K9    4c:00:82:cb:d7:d0  default location  LAG   US       1
+MMB350-APCOR232      2     AIR-CAP2602I-A-K9    6c:41:6a:92:ad:82  default location  LAG   US       1
+MMB350-AP237         2     AIR-CAP2602I-A-K9    f8:72:ea:24:4f:1b  default location  LAG   US       1
+MMB350-APCOR226      2     AIR-CAP2602I-A-K9    7c:69:f6:04:9e:18  default location  LAG   US       1
+MMB350-APCOR229
+MP372-AP109          2     AIR-CAP2602I-A-K9    f8:72:ea:46:e6:3e  default location  LAG   US       1
+MP372-AP100          2     AIR-CAP2602I-A-K9    f8:72:ea:d7:5c:85  default location  LAG   US       1
+MP372-APCOR100       2     AIR-CAP2602I-A-K9    4c:00:82:27:e2:70  default location  LAG   US       1
+MP372-AP111          2     AIR-CAP2602I-A-K9    4c:00:82:27:e0:d5  default location  LAG   US       1
+MP372-APCOR125       2     AIR-CAP2602I-A-K9    f8:72:ea:24:44:d0  default location  LAG   US       1
+MP372-APCOR123       2     AIR-CAP2602I-A-K9    f8:72:ea:24:44:e4  default location  LAG   US       1
+MP372-APCOR127       2     AIR-CAP2602I-A-K9    4c:00:82:cb:d4:8c  default location  LAG   US       1
+MP372-AP119          2     AIR-CAP2602I-A-K9    4c:00:82:27:e9:a1  default location  LAG   US       1
+MP372-AP127          2     AIR-CAP2602I-A-K9    f8:72:ea:46:d2:2e  default location  LAG   US       1
+MP372-AP114          2     AIR-CAP2602I-A-K9    4c:00:82:27:ed:08  default location  LAG   US       1
+MP372-AP103          2     AIR-CAP2602I-A-K9    6c:41:6a:92:b3:ce  default location  LAG   US       1
+MP372-APCOR221       2     AIR-CAP2602I-A-K9    4c:00:82:70:de:ff  default location  LAG   US       1
+MP372-AP220          2     AIR-CAP2602I-A-K9    4c:00:82:16:70:b4  default location  LAG   US       1
+MP372-AP214          2     AIR-CAP2602I-A-K9    7c:69:f6:04:9b:5c  default location  LAG   US       1
+MP372-APCOR216       2     AIR-CAP2602I-A-K9    7c:69:f6:04:ac:25  default location  LAG   US       1
+MP372-APCOR118       2     AIR-CAP2602I-A-K9    4c:00:82:3c:c5:2d  default location  LAG   US       1
+MP372-APCOR213       2     AIR-CAP2602I-A-K9    f8:72:ea:a6:fc:b5  default location  LAG   US       1
+MP372-APCOR211       2     AIR-CAP2602I-A-K9    4c:00:82:3c:c3:fa  default location  LAG   US       1
+MP372-APCOR112       2     AIR-CAP2602I-A-K9    f8:72:ea:d7:5e:3e  default location  LAG   US       1
+MP372-APCOR116       2     AIR-CAP2602I-A-K9    4c:00:82:70:e7:8c  default location  LAG   US       1
+MP372-AP147          2     AIR-CAP2602I-A-K9    7c:69:f6:04:9c:2d  default location  LAG   US       1
+MP372-AP160          2     AIR-CAP2602I-A-K9    7c:69:f6:bc:60:d4  default location  LAG   US       1
+MP372-AP168          2     AIR-CAP2602I-A-K9    4c:00:82:b9:8e:90  default location  LAG   US       1
+MP372-AP166          2     AIR-CAP2602I-A-K9    4c:00:82:16:69:f9  default location  LAG   US       1
+MP372-AP134          2     AIR-CAP2602I-A-K9    4c:00:82:16:68:fa  default location  LAG   US       1
+MP372-AP155          2     AIR-CAP2602I-A-K9    4c:00:82:b9:6c:c4  default location  LAG   US       1
+MP372-AP172          2     AIR-CAP2602I-A-K9    4c:00:82:70:e2:0f  default location  LAG   US       1
+MP372-AP142_C        2     AIR-CAP2602I-A-K9    7c:69:f6:26:5c:ae  default location  LAG   US       1
+AP4c00.82cb.d684     2     AIR-CAP2602I-A-K9    4c:00:82:cb:d6:84  default location  LAG   US       1
+MP372-AP135          2     AIR-CAP2602I-A-K9    7c:69:f6:04:9b:df  default location  LAG   US       1
+MP372-AP137          2     AIR-CAP2602I-A-K9    4c:00:82:b9:8d:7d  default location  LAG   US       1
+MP372-AP131          2     AIR-CAP2602I-A-K9    7c:69:f6:04:9c:70  default location  LAG   US       1
+MP372-AP179_A        2     AIR-CAP2602I-A-K9    4c:00:82:16:71:0d  default location  LAG   US       1
+MP372-AP149_C
+PH448-APCOR105       2     AIR-CAP2602I-A-K9    4c:00:82:27:ed:fb  default location  LAG   US       1
+PH448-AP113
+PH448-APCOR142
+PH448-AP128
+PH448-AP217          2     AIR-CAP2602I-A-K9    f8:72:ea:d7:5c:74  default location  LAG   US       1
+PH448-APCOR225
+PH448-APCOR202
+PH448-AP214D
+PH448-AP226
+PH448-AP105_A
+PH448-AP137_B        2     AIR-CAP2602I-A-K9    7c:69:f6:56:cc:d5  default location  LAG   US       1
+PH448-APCOR206       2     AIR-CAP2602I-A-K9    4c:00:82:70:de:27  default location  LAG   US       1
+PH448-AP105_B        2     AIR-CAP2602I-A-K9    f8:72:ea:46:d1:c0  default location  LAG   US       1
+PH448-APCOR103       2     AIR-CAP2602I-A-K9    f8:72:ea:24:4e:f7  default location  LAG   US       1
+PH448-APCOR214B      2     AIR-CAP2602I-A-K9    f8:72:ea:d7:5c:29  default location  LAG   US       1
+PH448-AP101G         2     AIR-CAP2602I-A-K9    f8:72:ea:23:cb:c9  default location  LAG   US       1
+PH448-AP211_A        2     AIR-CAP2602I-A-K9    7c:69:f6:26:5d:9c  default location  LAG   US       1
+PH448-AP211_B        2     AIR-CAP2602I-A-K9    4c:00:82:cb:d4:ea  default location  LAG   US       1
+PH448-APCOR204
+PH448-AP117
+PH448-AP155
+PH448-APCOR227       2     AIR-CAP2602I-A-K9    f8:72:ea:d7:5e:5e  default location  LAG   US       1
+PH448-APCOR214F      2     AIR-CAP2602I-A-K9    7c:69:f6:04:a9:b8  default location  LAG   US       1
+PH448-AP148          2     AIR-CAP2602I-A-K9    4c:00:82:b9:8e:91  default location  LAG   US       1
+PH448-AP101C         2     AIR-CAP2602I-A-K9    4c:00:82:70:e4:43  default location  LAG   US       1
+PH448-APCOR158_A     2     AIR-CAP2602I-A-K9    6c:41:6a:92:ad:af  default location  LAG   US       1
+PH448-AP111A         2     AIR-CAP2602I-A-K9    4c:00:82:b3:db:8f  default location  LAG   US       1
+PH448-AP220          2     AIR-CAP2602I-A-K9    7c:69:f6:26:5d:1f  default location  LAG   US       1
+PH448-AP108C         2     AIR-CAP2602I-A-K9    4c:00:82:3c:da:de  default location  LAG   US       1
+PH448-AP107_C        2     AIR-CAP2602I-A-K9    4c:00:82:70:e8:19  default location  LAG   US       1
+PH448-AP207          2     AIR-CAP2602I-A-K9    4c:00:82:b3:ce:ef  default location  LAG   US       1
+PH448-APCOR156       2     AIR-CAP2602I-A-K9    4c:00:82:b9:8e:8d  default location  LAG   US       1
+PH448-APCOR158_B     2     AIR-CAP2602I-A-K9    4c:00:82:3c:bc:f7  default location  LAG   US       1
+PH448-AP107_A        2     AIR-CAP2602I-A-K9    4c:00:82:3c:da:a3  default location  LAG   US       1
+PH448-AP101L         2     AIR-CAP2602I-A-K9    6c:41:6a:92:b2:49  default location  LAG   US       1
+PH448-APCOR101A      2     AIR-CAP2602I-A-K9    f8:72:ea:23:cb:c8  default location  LAG   US       1
+PH448-APCOR226       2     AIR-CAP2602I-A-K9    4c:00:82:3c:bd:5b  default location  LAG   US       1
+PH448-AP135          2     AIR-CAP2602I-A-K9    f8:72:ea:23:c7:96  default location  LAG   US       1
+PH448-APCOR224       2     AIR-CAP2602I-A-K9    7c:69:f6:04:9b:5b  default location  LAG   US       1
+PH448-APCOR119
+RJA482-AP141         2     AIR-CAP2602I-A-K9    7c:69:f6:26:5f:a2  default location  LAG   US       1
+RJA482-AP142         2     AIR-CAP2602I-A-K9    7c:69:f6:04:9d:d9  default location  LAG   US       1
+RJA482-AP171         2     AIR-CAP2602I-A-K9    4c:4e:35:63:91:5a  default location  LAG   US       1
+RJA482-AP163_B       2     AIR-CAP2602I-A-K9    7c:69:f6:26:5d:75  default location  LAG   US       1
+RJA482-AP151_A       2     AIR-CAP2602I-A-K9    4c:00:82:27:e3:62  default location  LAG   US       1
+RJA482-AP133         2     AIR-CAP2602I-A-K9    4c:00:82:b3:d0:3f  default location  LAG   US       1
+RJA482-AP125_B
+RJA482-AP173         2     AIR-CAP2602I-A-K9    7c:69:f6:04:9b:45  default location  LAG   US       1
+RJA482-AP163_C       2     AIR-CAP2602I-A-K9    4c:00:82:cb:d5:1a  default location  LAG   US       1
+RJA482-AP116         2     AIR-CAP2602I-A-K9    4c:00:82:70:d8:ed  default location  LAG   US       1
+RJA482-AP169         2     AIR-CAP2602I-A-K9    7c:69:f6:26:60:49  default location  LAG   US       1
+RJA482-AP174         2     AIR-CAP2602I-A-K9    f8:72:ea:23:cb:ad  default location  LAG   US       1
+RJA482-AP163_A       2     AIR-CAP2602I-A-K9    4c:00:82:27:e2:da  default location  LAG   US       1
+RJA482-AP122_MUSIC   2     AIR-CAP2602I-A-K9    f8:72:ea:46:d2:78  default location  LAG   US       1
+RJA482-AP143         2     AIR-CAP2602I-A-K9    4c:00:82:cb:d8:24  default location  LAG   US       1
+RJA482-APCOR161      2     AIR-CAP2602I-A-K9    6c:41:6a:92:ae:07  default location  LAG   US       1
+RJA482-AP151_B       2     AIR-CAP2602I-A-K9    7c:69:f6:04:9c:0e  default location  LAG   US       1
+RJA482-AP151_C       2     AIR-CAP2602I-A-K9    7c:69:f6:26:5f:f0  default location  LAG   US       1
+RJA482-AP211         2     AIR-CAP2602I-A-K9    6c:41:6a:92:b3:c2  default location  LAG   US       1
+RJA482-APCOR211      2     AIR-CAP2602I-A-K9    f8:72:ea:d7:5e:85  default location  LAG   US       1
+RJA482-AP135         2     AIR-CAP2602I-A-K9    bc:16:65:95:a0:90  default location  LAG   US       1
+RJA482-AP216
+RJA482-AP105         2     AIR-CAP2602I-A-K9    4c:00:82:70:de:aa  default location  LAG   US       1
+RJA482-AP206         2     AIR-CAP2602I-A-K9    7c:69:f6:26:5d:bd  default location  LAG   US       1
+RJA482-AP108         2     AIR-CAP2602I-A-K9    7c:69:f6:04:9d:e3  default location  LAG   US       1
+RJA482-AP109         2     AIR-CAP2602I-A-K9    7c:69:f6:04:9e:6a  default location  LAG   US       1
+RJA482-APCOR208      2     AIR-CAP2602I-A-K9    f8:72:ea:d7:5c:11  default location  LAG   US       1
+RJA482-AP207         2     AIR-CAP2602I-A-K9    4c:00:82:cb:d4:b3  default location  LAG   US       1
+RJA482-APCOR108      2     AIR-CAP2602I-A-K9    4c:00:82:70:da:19  default location  LAG   US       1
+RJA482-AP210         2     AIR-CAP2602I-A-K9    4c:00:82:16:76:01  default location  LAG   US       1
+RJA482-AP107_A       2     AIR-CAP2602I-A-K9    7c:69:f6:26:5f:e3  default location  LAG   US       1
+RJA482-AP205
+WAR572-APA118        2     AIR-CAP2602I-A-K9    c0:8c:60:24:db:2a  default location  LAG   US       1
+WAR572-APCORA119     2     AIR-CAP2602I-A-K9    c0:8c:60:24:d9:68  default location  LAG   US       1
+WAR572-APB111_C      2     AIR-CAP2602I-A-K9    7c:69:f6:bc:7a:bf  default location  LAG   US       1
+WAR572-AP            2     AIR-CAP2602I-A-K9    7c:69:f6:8d:1c:c5  default location  LAG   US       1
+WAR572-APB111_D      2     AIR-CAP2602I-A-K9    7c:69:f6:8d:25:8a  default location  LAG   US       1
+WAR572-APA100_A      2     AIR-CAP2602I-A-K9    c0:67:af:11:db:3a  default location  LAG   US       1
+WAR572-APA100_B      2     AIR-CAP2602I-A-K9    c0:67:af:11:d9:c6  default location  LAG   US       1
+WAR572-APCORA113     2     AIR-CAP2602I-A-K9    7c:69:f6:8d:3c:ec  default location  LAG   US       1
+WAR572-APCORA111     2     AIR-CAP2602I-A-K9    7c:69:f6:8d:25:60  default location  LAG   US       1
+WAR572-APCORB128     2     AIR-CAP2602I-A-K9    c0:8c:60:2c:67:45  default location  LAG   US       1
+WAR572-APB106        2     AIR-CAP2602I-A-K9    c0:67:af:11:db:1e  default location  LAG   US       1
+WAR572-APCORB110     2     AIR-CAP2602I-A-K9    7c:69:f6:56:cc:65  default location  LAG   US       1
+WAR572-APA106        2     AIR-CAP2602I-A-K9    7c:69:f6:41:07:a3  default location  LAG   US       1
+WAR572-APCORB109     2     AIR-CAP2602I-A-K9    7c:69:f6:8d:20:00  default location  LAG   US       1
+WAR572-APCORB101     2     AIR-CAP2602I-A-K9    c0:67:af:11:c0:b6  default location  LAG   US       1
+WAR572-APB110_A      2     AIR-CAP2602I-A-K9    c0:67:af:1e:30:51  default location  LAG   US       1
+WAR572-APCORA116     2     AIR-CAP2602I-A-K9    7c:69:f6:8d:3c:8e  default location  LAG   US       1
+WAR572-APCORB111     2     AIR-CAP2602I-A-K9    7c:69:f6:bc:6f:8c  default location  LAG   US       1
+WAR572-APCORA201     2     AIR-CAP2602I-A-K9    c0:8c:60:24:c3:cb  default location  LAG   US       1
+WAR572-APB108
+WAR572-APCORA202     2     AIR-CAP2602I-A-K9    7c:69:f6:bc:84:7b  default location  LAG   US       1
+WAR572-APCORA214     2     AIR-CAP2602I-A-K9    c0:8c:60:24:c6:9b  default location  LAG   US       1
+WAR572-APCORA205     2     AIR-CAP2602I-A-K9    7c:69:f6:8d:36:51  default location  LAG   US       1
+WAR572-APCORA203     2     AIR-CAP2602I-A-K9    c0:8c:60:2c:7a:21  default location  LAG   US       1
+WAR572-APB121A       2     AIR-CAP2602I-A-K9    7c:69:f6:56:cc:8d  default location  LAG   US       1
+WAR572-APB110_B      2     AIR-CAP2602I-A-K9    c0:67:af:1e:30:0a  default location  LAG   US       1
+WAR572-APCORB139     2     AIR-CAP2602I-A-K9    7c:69:f6:8d:1f:f5  default location  LAG   US       1
+WAR572-APA102        2     AIR-CAP2602I-A-K9    c0:67:af:11:db:49  default location  LAG   US       1
+WAR572-APB120A       2     AIR-CAP2602I-A-K9    7c:69:f6:bc:6c:33  default location  LAG   US       1
+WAR572-APA201        2     AIR-CAP2602I-A-K9    c0:8c:60:24:c4:ac  default location  LAG   US       1
+WAR572-APA215        2     AIR-CAP2602I-A-K9    7c:69:f6:8d:25:25  default location  LAG   US       1
+WAR572-APB111_A      2     AIR-CAP2602I-A-K9    7c:69:f6:8d:3b:0f  default location  LAG   US       1
+AP7c69.f68d.3cb2     2     AIR-CAP2602I-A-K9    7c:69:f6:8d:3c:b2  default location  LAG   US       1
+WAR572-APA207D       2     AIR-CAP2602I-A-K9    c0:8c:60:2c:62:75  default location  LAG   US       1
+WAR572-APA218        2     AIR-CAP2602I-A-K9    7c:69:f6:8d:1f:c0  default location  LAG   US       1
+WAR572-APCORA135     2     AIR-CAP2602I-A-K9    c0:8c:60:2c:7f:6a  default location  LAG   US       1
+APc08c.602c.7e67     2     AIR-CAP2602I-A-K9    c0:8c:60:2c:7e:67  default location  LAG   US       1
+WAR572-APCORA133     2     AIR-CAP2602I-A-K9    c0:67:af:1e:30:02  default location  LAG   US       1
+AP7c69.f68d.3def     2     AIR-CAP2602I-A-K9    7c:69:f6:8d:3d:ef  default location  LAG   US       1
+WAR572-APCORA121     2     AIR-CAP2602I-A-K9    c0:67:af:58:be:5b  default location  LAG   US       1
+WAR572-APCORA136     2     AIR-CAP2602I-A-K9    c0:8c:60:2c:7e:ed  default location  LAG   US       1
+WAR572-APCORA120     2     AIR-CAP2602I-A-K9    c0:8c:60:24:d6:51  default location  LAG   US       1
+WAR572-APCORA122
+WLS624-APCOR214      2     AIR-CAP2602I-A-K9    7c:69:f6:26:6c:d2  default location  LAG   US       1
+WLS624-APCOR207      2     AIR-CAP2602I-A-K9    4c:00:82:cb:d7:d5  default location  LAG   US       1
+WLS624-APCOR212      2     AIR-CAP2602I-A-K9    7c:69:f6:26:70:7d  default location  LAG   US       1
+WLS624-AP212         2     AIR-CAP2602I-A-K9    6c:41:6a:a3:56:bf  default location  LAG   US       1
+WLS624-AP213         2     AIR-CAP2602I-A-K9    7c:69:f6:04:a6:17  default location  LAG   US       1
+WLS624-APCOR102      2     AIR-CAP2602I-A-K9    f8:72:ea:46:d7:ef  default location  LAG   US       1
+WLS624-AP104         2     AIR-CAP2602I-A-K9    f8:72:ea:46:d4:d5  default location  LAG   US       1
+WLS624-AP107         2     AIR-CAP2602I-A-K9    f8:72:ea:23:d4:38  default location  LAG   US       1
+WLS624-AP115         2     AIR-CAP2602I-A-K9    6c:41:6a:92:ae:18  default location  LAG   US       1
+WLS624-APCOR118      2     AIR-CAP2602I-A-K9    6c:41:6a:92:b4:0f  default location  LAG   US       1
+WLS624-AP136         2     AIR-CAP2602I-A-K9    4c:00:82:b9:8d:f2  default location  LAG   US       1
+WLS624-AP126         2     AIR-CAP2602I-A-K9    f8:72:ea:d7:3f:85  default location  LAG   US       1
+WLS624-APCOR154      2     AIR-CAP2602I-A-K9    6c:41:6a:92:b3:da  default location  LAG   US       1
+WLS624-APCOR128      2     AIR-CAP2602I-A-K9    7c:69:f6:04:9b:f5  default location  LAG   US       1
+WLS624-AP143         2     AIR-CAP2602I-A-K9    4c:00:82:b9:8d:fc  default location  LAG   US       1
+WLS624-AP149         2     AIR-CAP2602I-A-K9    4c:00:82:cb:d5:54  default location  LAG   US       1
+WLS624-AP142         2     AIR-CAP2602I-A-K9    bc:16:65:c1:fb:8c  default location  LAG   US       1
+WLS624-AP132         2     AIR-CAP2602I-A-K9    6c:41:6a:78:e2:65  default location  LAG   US       1
+AP7c69.f626.5d25
+WP556-AP131          2     AIR-CAP2602I-A-K9    c0:8c:60:2c:69:3c  default location  LAG   US       1
+WP556-AP144          2     AIR-CAP2602I-A-K9    7c:69:f6:8d:25:1b  default location  LAG   US       1
+WP556-AP121          2     AIR-CAP2602I-A-K9    c0:67:af:11:c0:bd  default location  LAG   US       1
+WP556-AP128          2     AIR-CAP2602I-A-K9    7c:69:f6:8d:3b:0c  default location  LAG   US       1
+WP556-APCOR114       2     AIR-CAP2602I-A-K9    4c:00:82:3c:da:7b  default location  LAG   US       1
+WP556-AP200          2     AIR-CAP2602I-A-K9    c0:67:af:58:be:6b  default location  LAG   US       1
+WP556-AP160          2     AIR-CAP2602I-A-K9    c0:8c:60:2c:61:89  default location  LAG   US       1
+WP556-APCOR135       2     AIR-CAP2602I-A-K9    7c:69:f6:8d:2b:0a  default location  LAG   US       1
+WP556-AP215          2     AIR-CAP2602I-A-K9    7c:69:f6:56:cd:2a  default location  LAG   US       1
+WP556-AP202          2     AIR-CAP2602I-A-K9    c0:67:af:58:c0:e7  default location  LAG   US       1
+WP556-AP206          2     AIR-CAP2602I-A-K9    c0:8c:60:24:db:62  default location  LAG   US       1
+WP556-AP103          2     AIR-CAP2602I-A-K9    f8:72:ea:87:16:0f  default location  LAG   US       1
+WP556-AP212          2     AIR-CAP2602I-A-K9    7c:69:f6:bc:6f:3b  default location  LAG   US       1
+WP556-AP107          2     AIR-CAP2602I-A-K9    4c:00:82:16:4b:3e  default location  LAG   US       1
+WP556-AP209          2     AIR-CAP2602I-A-K9    7c:69:f6:41:07:a5  default location  LAG   US       1
+WP556-AP125_C        2     AIR-CAP2602I-A-K9    c0:8c:60:2c:79:a2  default location  LAG   US       1
+WP556-AP127          2     AIR-CAP2602I-A-K9    7c:69:f6:40:fe:04  default location  LAG   US       1
+WP556-AP201          2     AIR-CAP2602I-A-K9    c0:67:af:58:be:ab  default location  LAG   US       1
+WP556-AP136
+WP556-AP171          2     AIR-CAP2602I-A-K9    c0:8c:60:2c:5e:cc  default location  LAG   US       1
+WP556-AP175          2     AIR-CAP2602I-A-K9    7c:69:f6:bc:74:90  default location  LAG   US       1
+WP556-AP162          2     AIR-CAP2602I-A-K9    c0:67:af:11:c2:a0  default location  LAG   US       1
+WP556-AP154          2     AIR-CAP2602I-A-K9    7c:69:f6:bc:75:83  default location  LAG   US       1
+APbc16.65ff.6174     2     AIR-CAP2602I-A-K9    bc:16:65:ff:61:74  default location  LAG   US       1
+WP556-AP146
+WP556-AP100          2     AIR-CAP2602I-A-K9    f8:72:ea:d7:40:ff  default location  LAG   US       1
+WP556-APCOR200
+WCB622-TR1-AP103
+WCB622-TR1-AP101
+WCB622-TR1-AP105
+WCB622-TR1-AP106
+WCB622-MDF-APOff
+WCB622-TR1-AP108
+WCB622-TR1-AP100
+WCB622-TR1-AP102
+WCB622-MDF-AP113
+WCB622-MDF-AP216
+WCB622-MDF-AP210
+WCB622-MDF-AP307
+WCB622-MDF-APCUST
+WCB622-TR1-AP107
+WCB622-MDF-AP301
+WCB622-TR1-AP104
+WCB622-MDF-AP212
+WCB622-MDF-AP201
+WCB622-MDF-
+WCB622-MDF-AP302
+WCB622-MDF-AP203
+WCB622-MDF-AP303
+WCB622-MDF-AP314
+WCB622-MDF-AP101
+WCB622-MDF-AP209
+WCB622-MDF-AP310
+WCB622-MDF-AP108
+WCB622-MDF-AP309
+WCB622-MDF-AP306
+WCB622-MDF-AP207

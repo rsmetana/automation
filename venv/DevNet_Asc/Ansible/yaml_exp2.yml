@@ -1,0 +1,15 @@
+---
+- hosts: almira_switches
+  
+  tasks:
+    name: Add AAA to switches
+    ios_command:
+      command:
+      - aaa authentication login default group tacacs+ local
+      - aaa authentication login CON local
+      - aaa authorization exec default group tacacs+ local 
+      - aaa accounting exec default start-stop group tacacs+
+      - aaa accounting commands 0 default start-stop group tacacs+
+      - aaa accounting commands 15 default start-stop group tacacs+
+      - aaa accounting connection default start-stop group tacacs+
+      - aaa accounting system default start-stop group tacacs+

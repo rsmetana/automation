@@ -1,0 +1,16 @@
+---
+
+- hosts: apache
+  handlers:
+    - name: restart apache
+      become: true
+      service:
+        name: apache2
+        state: restarted
+      listen: "restart apache"
+  tasks:
+    - name: Create config
+      file:
+        path: /tmp/dir1
+      notify: "restart apache"
+      

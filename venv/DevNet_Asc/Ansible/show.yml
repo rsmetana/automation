@@ -15,6 +15,6 @@
            username: cisco
            password: cisco
       register: if_data
-  - name: Interfaces output
-    debug:
-      var: if_data['stdout_lines'][0]
+    - name: Interfaces output
+        debug:
+        var: if_data['stdout_lines'][0]
