@@ -1,9 +1,0 @@
-WHS-4500X
-MER-Stack-2
-MER-Stack-1
-TR3-Stack-1
-TR2-Stack-1
-TR1-Stack-1
-TR2-Stack-2
-TR3-Stack-2
-TR4-Stack-1

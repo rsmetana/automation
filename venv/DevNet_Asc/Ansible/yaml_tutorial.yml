@@ -1,4 +1,0 @@
-#key value pairs
-app: user-authentication
-port: 9000
-version: 1.7

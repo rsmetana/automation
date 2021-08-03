@@ -1,5 +1,0 @@
-friends = ['kevin', 'mike', 'joe']
-friends.insert(1,'roman')
-print(friends)
-
-
