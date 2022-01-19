@@ -1,0 +1,18 @@
+
+config firewall address
+    edit "East_Prof_Games"
+        set type iprange
+        set start-ip 10.3.11.1
+        set end-ip 10.3.11.10
+    next
+    edit "East_Tech_Games"
+        set type iprange
+        set start-ip 10.4.11.1
+        set end-ip 10.4.11.10
+    next
+end
+config firewall addrgrp
+    edit "ONLINE-GAMES"
+        set member "DIGITAL-ARTS-GAMES" "NELA-GAMES" "GINN-GAMES" "JM_ES" "JOHN-ADAMS-GAMES" "JOHN-MARSHALL-GAMES" "Miles-Park" "East_Prof_Games" "East_Tech_Games"
+    next
+end
